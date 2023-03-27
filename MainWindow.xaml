@@ -7,6 +7,23 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox x:Name="txtMG" HorizontalAlignment="Left" Margin="25,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="55"/>
+        <TextBox x:Name="txtGRAM" HorizontalAlignment="Center" Margin="0,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="55"/>
+        <TextBox x:Name="txtKG" HorizontalAlignment="Left" Margin="585,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="55"/>
+        <TextBox x:Name="txtMT" HorizontalAlignment="Left" Margin="25,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="56"/>
+        <TextBox x:Name="txtOUNCE" HorizontalAlignment="Center" Margin="0,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="55
+                 "/>
+        <TextBox HorizontalAlignment="Left" Margin="585,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="55
+                 "/>
+        <TextBox HorizontalAlignment="Center" Margin="0,344,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="750" Height="55"/>
+        <Button x:Name="btnAllClear" Content="清除" HorizontalAlignment="Left" Margin="25,44,0,0" VerticalAlignment="Top" Height="49" Width="150"/>
+        <Label x:Name="txtMg" Content="毫克&#xD;&#xA;" HorizontalAlignment="Left" Margin="25,108,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.388" Height="26" Cursor="Arrow"/>
+        <Label x:Name="txtGram" Content="公克&#xA;" HorizontalAlignment="Left" Margin="305,108,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.388" Height="26" Cursor="Arrow"/>
+        <Label x:Name="txtKg" Content="公斤&#xA;" HorizontalAlignment="Left" Margin="585,108,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.388" Height="26" Cursor="Arrow"/>
+        <Label x:Name="txtMt" Content="公噸&#xA;" HorizontalAlignment="Left" Margin="25,212,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.388" Height="26" Cursor="Arrow"/>
+        <Label x:Name="txtOunce" Content="盎司" HorizontalAlignment="Left" Margin="305,213,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.388" Height="26" Cursor="Arrow"/>
+        <Label x:Name="txtPound" Content="磅&#xA;" HorizontalAlignment="Left" Margin="585,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.388" Height="26" Cursor="Arrow"/>
+        <Label x:Name="txtInfo" Content="文字説明&#xA;" HorizontalAlignment="Left" Margin="25,313,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.526,1.388" Height="26" Cursor="Arrow" Width="95"/>
+
     </Grid>
 </Window>
