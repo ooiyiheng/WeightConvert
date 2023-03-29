@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\bin\Debug\WeightConvert.exe.config
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\bin\Debug\WeightConvert.exe
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\bin\Debug\WeightConvert.pdb
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\App.g.cs
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert_MarkupCompile.cache
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert_MarkupCompile.lref
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.g.resources
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.Properties.Resources.resources
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.csproj.GenerateResource.cache
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.exe
+C:\Users\User\Desktop\课程\視窗\WeightConvert\WeightConvert\obj\Debug\WeightConvert.pdb
